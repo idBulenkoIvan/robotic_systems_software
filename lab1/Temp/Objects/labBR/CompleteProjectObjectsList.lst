@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133700979983061401" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133700980000000000" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Program\Cyclic.c"
+    LogicalPath="Program.Cyclic.c"
+    Type="File"
+    LastWriteTime="133713091113186684"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Program\Init.c"
+    LogicalPath="Program.Init.c"
+    Type="File"
+    LastWriteTime="133713096552821760"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Program\Exit.c"
+    LogicalPath="Program.Exit.c"
+    Type="File"
+    LastWriteTime="133700980000000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133700980000000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133713102291933743"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133700968954315899"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133700968954455521"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133700979982782146" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="133700968963212105" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="133700968963162234"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="133700968963192157"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="133700968963202133"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="133700968967460744" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133700968967430832"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133700968967440796"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133700968967460744"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="133700968971430123" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="133700968971390243"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="133700968971410179"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="133700968971420151"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133700968975469321" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133700968975439402"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133700968975449378"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133700968975459350"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\ANSIC.lby"
+    LogicalPath="Libraries.MotorCtrl"
+    Type="Library"
+    LastWriteTime="133700979765114278" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\Types.typ"
+    LogicalPath="Libraries.MotorCtrl.Types.typ"
+    Type="File"
+    LastWriteTime="133700973288536566"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\Constants.var"
+    LogicalPath="Libraries.MotorCtrl.Constants.var"
+    Type="File"
+    LastWriteTime="133700973288546538"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\MotorCtrl.fun"
+    LogicalPath="Libraries.MotorCtrl.MotorCtrl.fun"
+    Type="File"
+    LastWriteTime="133707006039153061"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\FB_Motor.c"
+    LogicalPath="Libraries.MotorCtrl.FB_Motor.c"
+    Type="File"
+    LastWriteTime="133707010099025476"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\FB_Integrator.c"
+    LogicalPath="Libraries.MotorCtrl.FB_Integrator.c"
+    Type="File"
+    LastWriteTime="133707017248586689"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Logical\Libraries\MotorCtrl\FB_Regulator.c"
+    LogicalPath="Libraries.MotorCtrl.FB_Regulator.c"
+    Type="File"
+    LastWriteTime="133707010099484701"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\Config.pkg"
+    LogicalPath="labBR"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133700968998427928" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\Hardware.hw"
+    LogicalPath="labBR.Hardware.hw"
+    Type="File"
+    LastWriteTime="133713109864850198"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\Hardware.hwl"
+    LogicalPath="labBR.Hardware.hwl"
+    Type="File"
+    LastWriteTime="131865063240000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="labBR.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="133700968977753218" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="labBR.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="133700979983211010"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\Cpu.per"
+    LogicalPath="labBR.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="133700968977005219"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="labBR.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="133700968977015191"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="labBR.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133700968977025166"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="133700968977204683" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133700968977194711" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="133700968977234614" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\UnitSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.UnitSystem"
+    Type="Package"
+    LastWriteTime="133700968977264522" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133700968977593645" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133700968977354285" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133700968977324365"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133700968977344313"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133700968977563721" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133700968977463987" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133700968977414120" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133700968977434068" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133700968977513858" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133700968977513858" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133700968977533806" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133700968977563721" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133700968977593645" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\mappControl\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappControl"
+    Type="Package"
+    LastWriteTime="133700968977623564" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\mappMotion\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappMotion"
+    Type="Package"
+    LastWriteTime="133700968977653484" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\mappServices\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappServices"
+    Type="Package"
+    LastWriteTime="133700968977693379" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\mappView\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappView"
+    Type="Package"
+    LastWriteTime="133700968977713330" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\4PP065_0571_P74\mappCockpit\Package.pkg"
+    LogicalPath="labBR.4PP065_0571_P74.mappCockpit"
+    Type="Package"
+    LastWriteTime="133700968977743242" />
+  <Object
+    Path="C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Physical\labBR\Hardware.jpg"
+    LogicalPath="labBR.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133707013962878046"
+    Private="false" />
+</Objects>

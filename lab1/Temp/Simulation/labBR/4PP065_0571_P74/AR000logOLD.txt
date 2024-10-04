@@ -1,0 +1,30 @@
+Fri Sep 20 16:03:06 2024
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Sep 20 16:03:06 2024
+No ARsim registration found!
+
+Fri Sep 20 16:03:06 2024
+InstanceName: 01db0b5d6f583f40
+
+Fri Sep 20 16:03:06 2024
+WorkingDirectory: C:\Users\admin\Documents\kvbo-07-21\Mankevich\lab1\Temp\Simulation\labBR\4PP065_0571_P74\
+
+Fri Sep 20 16:03:06 2024
+COMMAND_COLDSTART
+
+Fri Sep 20 16:03:08 2024
+Version: D4.52
+
+Fri Sep 20 16:03:09 2024
+COMMAND_TERMINATE
+
+Fri Sep 20 16:03:10 2024
+COMMAND_COLDSTART
+
+Fri Sep 20 16:03:12 2024
+Version: D4.52
+
+Fri Sep 20 16:06:04 2024
+COMMAND_TERMINATE
+
